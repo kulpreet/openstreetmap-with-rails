@@ -26,7 +26,8 @@
         map.setCenter(position, zoom );
 
 	vectors = new OpenLayers.Layer.Vector("Vector Layer");
-	point = new OpenLayers.Geometry.Point(position.lon, position.lat);
+
+	point = new OpenLayers.Geometry.Point(-13630866.5061813, 4547519.22490819);
 	vectors.addFeatures([new OpenLayers.Feature.Vector(point)]);
 	map.addLayer(vectors);
 

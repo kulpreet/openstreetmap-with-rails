@@ -5,17 +5,14 @@ Open Street Maps with Rails
 The objectives of this project are to show how to 
 
 	1. Access OSM data from PostGIS using ActiveRecord
-	
 	2. Show the data on a map displayed using OpenLayers
 
 Uses
 ----------
-
-  1. Rails 3.2.3
-
-  2. Passenger 3
-  
-  3. PostgresSQL and PostGIS
+	
+	1. Rails 3.2.3
+	2. Passenger 3
+	3. PostgresSQL and PostGIS
 
 Pre-requisites
 ----------
