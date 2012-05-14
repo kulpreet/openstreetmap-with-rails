@@ -4,5 +4,6 @@ class PlanetOsmPolygon < ActiveRecord::Base
   self.primary_key = "osm_id"
 
   include DistanceQueries
+  include FilterOsmColumns
 
 end
