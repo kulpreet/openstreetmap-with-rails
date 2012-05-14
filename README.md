@@ -34,4 +34,5 @@ Pre-requisites
   data.
 
 
-See the [Wiki](https://github.com/kulpreet/openstreetmap-with-rails/wiki) for how to use all this.
+See the [Commit Log](https://github.com/kulpreet/openstreetmap-with-rails/commits/master/)
+for how I built this.
