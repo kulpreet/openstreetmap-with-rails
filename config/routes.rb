@@ -1,4 +1,8 @@
 Code::Application.routes.draw do
+
+  get "location/load"
+  get "location/for_point"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
